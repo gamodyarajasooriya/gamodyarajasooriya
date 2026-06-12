@@ -18,7 +18,7 @@ Building applied AI/ML systems — from messy real-world data to deployed produc
 | 🟡 **Delivery Delay Prediction** | 100K+ orders on Databricks · seller delay-rate feature boosted AUC 0.738→0.807 · $1.7M–$4.3M recoverable value | Databricks · Spark · XGBoost |
 | 🟢 **Flight Delay Prediction** | Threshold tuning as a business decision · F1 0.34→0.46 · ROC-AUC 0.75 | XGBoost · scikit-learn |
 | 🔴 **Financial Sentiment NLP** | DNN→RNN→LSTM pipeline on 3-class financial news · 64% accuracy | TensorFlow · LSTM · TF-IDF |
-| 🏆 **SkillHub** | IDEATHON Winner · GreenExe Top 8 · AIESEC Semi-Finalist · NBQSA Participant | — |
+| 🏆 **SkillHub** | IDEATHON Winner · GreenExe Top 8 · AIESEC Semi-Finalist · NBQSA Participant | Typescript . FastAPI |
 
 ---
 
