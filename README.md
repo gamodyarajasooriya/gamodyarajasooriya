@@ -3,7 +3,7 @@
 Final-year CS undergraduate · NSBM Green University · Graduating November 2026  
 Building applied AI/ML systems — from messy real-world data to deployed products.
 
-📫 [LinkedIn](https://linkedin.com/in/gamodya-rajasooriya) · gamodyarajasooriya@gmail.com
+📫 [LinkedIn]([https://linkedin.com/in/gamodya-rajasooriya](https://www.linkedin.com/in/gamodya-rajasooriya-48832632a/)) · gamodyarajasooriya@gmail.com
 
 ---
 
